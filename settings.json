@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editor.highlightModifiedTabs": true,
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 12.5,
+    "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "smooth",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "explorer.sortOrder": "type",
+    "files.autoSave": "afterDelay",
+    "files.trimFinalNewlines": true,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "terminal.integrated.fontFamily": "'Fira Code'",
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.confirmOnExit": true,
+    "terminal.integrated.cursorStyle": "block",
+    "terminal.integrated.cursorBlinking": true
+}
